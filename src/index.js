@@ -11,14 +11,14 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          Hi{'U+1F44B'}
-          <br />I am ALPHA_CODERU{'+1F60E'}
+          Hi{'\u1F44B'}
+          <br />I am ALPHA_CODER{'\u1F60E'}
         </h1>
 
         <h2>
           I am preparing something new
           <br />
-          Stay Tuned!{'U+1F4FA'}
+          Stay Tuned!{'\u1F4FA'}
         </h2>
         <Timer />
         <Optin />
