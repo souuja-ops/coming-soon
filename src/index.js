@@ -11,14 +11,14 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          Hi{'\u1F44B'}
-          <br />I am ALPHA_CODER{'\u1F60E'}
+          Hi<span role="img" aria-label="wave">👋</span>
+          <br />I am ALPHA_CODER<span role="img" aria-label="cool">😎</span>
         </h1>
 
         <h2>
           I am preparing something new
           <br />
-          Stay Tuned!{'\u1F4FA'}
+          Stay Tuned!<span role="img" aria-label="tv">📺</span>
         </h2>
         <Timer />
         <Optin />
