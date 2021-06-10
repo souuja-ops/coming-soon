@@ -21,7 +21,6 @@ function App() {
           Stay Tuned!<span role="img" aria-label="tv">📺</span>
         </h2>
         <Timer />
-        //<Optin />
         <Preloader />
       </div>
     </div>
