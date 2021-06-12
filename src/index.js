@@ -12,13 +12,13 @@ function App() {
       <div className="container">
         <h1>
           Hi<span role="img" aria-label="wave">👋</span>
-          <br />I am ALPHA_CODER<span role="img" aria-label="cool">😎</span>
+          <br />EVERYONE<span role="img" aria-label="cool">😎</span>
         </h1>
 
         <h2>
-          I am preparing something new
+          Postponed the lauching date because of a few production bugs
           <br />
-          Stay Tuned!<span role="img" aria-label="tv">📺</span>
+          But Stay Tuned!<span role="img" aria-label="tv">📺</span>
         </h2>
         <Timer />
         <Optin />
