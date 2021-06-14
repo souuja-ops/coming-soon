@@ -16,7 +16,7 @@ function App() {
         </h1>
 
         <h2>
-          Postponed the lauching date because of a few production bugs
+          Postponed the launching date because of a few production bugs
           <br />
           But Stay Tuned!<span role="img" aria-label="tv">📺</span>
         </h2>
