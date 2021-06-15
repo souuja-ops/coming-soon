@@ -18,7 +18,7 @@ function App() {
         <h2>
           Just launched my new portfolio website!
           <br />
-          But Stay Tuned!<span role="img" aria-label="tv">📺</span>
+  
         </h2>
         <Timer />
         <Optin />
