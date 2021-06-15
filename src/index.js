@@ -16,7 +16,7 @@ function App() {
         </h1>
 
         <h2>
-          Postponed the launching date because of a few production bugs
+          Just launched my new portfolio website!
           <br />
           But Stay Tuned!<span role="img" aria-label="tv">📺</span>
         </h2>
